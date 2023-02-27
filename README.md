@@ -1,5 +1,5 @@
 # TGAM dataset for RLSF
-This dataset was used for the following study:
+This dataset is used for the following study:
 - [RLSF: Multimodal Sleep Improvement Algorithm based Reinforcement Learning](https://github.com/TerryZAG/RLSF)
 
 ## Data-Collection
