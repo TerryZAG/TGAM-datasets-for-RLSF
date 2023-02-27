@@ -1,6 +1,6 @@
 # TGAM dataset for RLSF
 This dataset was used for the following study:
-- [RLSF: Multimodal Sleep Improvement Algorithm based Reinforcement Learning]([https://gist.github.com/](https://github.com/TerryZAG/RLSF))
+- [RLSF: Multimodal Sleep Improvement Algorithm based Reinforcement Learning]([[https://gist.github.com/](https://github.com/TerryZAG/RLSF)])
 
 ## Data-Collection
 The TGAM self-made dataset involves 5 subjects aged from 20 to 30. To exhibit diversity, four of these volunteers have healthy sleep status, and the other one has mild symptoms of difficulty falling asleep. Coffee, tea, alcohol, smoking, and sleep-related drugs are restricted within 5 hours before data collection.  
