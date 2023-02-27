@@ -5,6 +5,7 @@ This dataset was used for the following study:
 ## Data-Collection
 The TGAM self-made dataset involves 5 subjects aged from 20 to 30. To exhibit diversity, four of these volunteers have healthy sleep status, and the other one has mild symptoms of difficulty falling asleep. Coffee, tea, alcohol, smoking, and sleep-related drugs are restricted within 5 hours before data collection.  
 Five recording sessions are performed per subject, and the recording sessions are recorded on the first and second nights without any intervention of white noise. Then, in the three following nights, the white noise lite of each frequency is played in a sequential loop until the end of the set time. Each white noise lite is played one EEG epoch at a time. Since low frequency white noise lite is beneficial to induce sleep, we set  the white noise lite frequencies to 7 kinds, 0Hz, 0.5Hz, 1Hz, 2Hz, 3Hz, 4Hz, and 5Hz, respectively. Starting from lying down, the white noise starts at 0 minutes, 2.5 minutes, and 3 minutes each night.  
+Put the folder "data" in the root directory of the RLSF project for use.  
 
 ## The dataset includes the following:
 
